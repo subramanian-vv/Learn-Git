@@ -1,2 +1,2 @@
-# Spider-Task-1
+# Learn-Git
 A basic task to get started with the Git commands.
